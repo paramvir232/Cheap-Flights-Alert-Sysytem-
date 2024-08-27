@@ -41,4 +41,4 @@ Feel free to submit issues and pull requests. Contributions are welcome to impro
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-For any questions or support, please reach out to your-email@example.com.
+For any questions or support, please reach out to paramvirgrewal232@gmail.com
